@@ -6,7 +6,7 @@ This project provides a Python implementation of a Singly Linked List (SLL). A s
 
 ## Class Structure
 
-The implementation consists of two classes:
+The implementation consists of two classes:-
 
 * **`Node`:** Represents an individual node within the linked list.
 * **`SLL`:** Represents the Singly Linked List itself, containing a reference to the first node and methods to manipulate the list.
